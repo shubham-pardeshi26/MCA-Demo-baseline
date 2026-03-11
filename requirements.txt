@@ -1,0 +1,17 @@
+# fastapi
+# uvicorn
+# pandas
+# scikit-learn
+# requests
+# evidently
+
+
+pandas
+numpy
+scikit-learn
+mlflow
+fastapi
+uvicorn
+requests
+kaggle
+python-dotenv
